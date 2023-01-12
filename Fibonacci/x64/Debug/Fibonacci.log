@@ -1,0 +1,4 @@
+﻿  Fibonacci.cpp
+C:\Users\crist\source\repos\maquico\Datos-y-Algoritmos-2\Fibonacci\Fibonacci.cpp(17): warning C4715: 'Fibonacci': not all control paths return a value
+C:\Users\crist\source\repos\maquico\Datos-y-Algoritmos-2\Fibonacci\Fibonacci.cpp(37): warning C4715: 'EsFibonacci': not all control paths return a value
+  Fibonacci.vcxproj -> C:\Users\crist\Source\Repos\maquico\Datos-y-Algoritmos-2\x64\Debug\Fibonacci.exe
